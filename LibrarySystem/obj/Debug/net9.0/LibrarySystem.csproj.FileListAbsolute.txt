@@ -1,0 +1,15 @@
+/home/francisj/RiderProjects/LibrarySystem/LibrarySystem/bin/Debug/net9.0/LibrarySystem
+/home/francisj/RiderProjects/LibrarySystem/LibrarySystem/bin/Debug/net9.0/LibrarySystem.deps.json
+/home/francisj/RiderProjects/LibrarySystem/LibrarySystem/bin/Debug/net9.0/LibrarySystem.runtimeconfig.json
+/home/francisj/RiderProjects/LibrarySystem/LibrarySystem/bin/Debug/net9.0/LibrarySystem.dll
+/home/francisj/RiderProjects/LibrarySystem/LibrarySystem/bin/Debug/net9.0/LibrarySystem.pdb
+/home/francisj/RiderProjects/LibrarySystem/LibrarySystem/obj/Debug/net9.0/LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/francisj/RiderProjects/LibrarySystem/LibrarySystem/obj/Debug/net9.0/LibrarySystem.AssemblyInfoInputs.cache
+/home/francisj/RiderProjects/LibrarySystem/LibrarySystem/obj/Debug/net9.0/LibrarySystem.AssemblyInfo.cs
+/home/francisj/RiderProjects/LibrarySystem/LibrarySystem/obj/Debug/net9.0/LibrarySystem.csproj.CoreCompileInputs.cache
+/home/francisj/RiderProjects/LibrarySystem/LibrarySystem/obj/Debug/net9.0/LibrarySystem.sourcelink.json
+/home/francisj/RiderProjects/LibrarySystem/LibrarySystem/obj/Debug/net9.0/LibrarySystem.dll
+/home/francisj/RiderProjects/LibrarySystem/LibrarySystem/obj/Debug/net9.0/refint/LibrarySystem.dll
+/home/francisj/RiderProjects/LibrarySystem/LibrarySystem/obj/Debug/net9.0/LibrarySystem.pdb
+/home/francisj/RiderProjects/LibrarySystem/LibrarySystem/obj/Debug/net9.0/LibrarySystem.genruntimeconfig.cache
+/home/francisj/RiderProjects/LibrarySystem/LibrarySystem/obj/Debug/net9.0/ref/LibrarySystem.dll
